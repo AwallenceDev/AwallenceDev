@@ -30,7 +30,11 @@ Building backend systems, APIs and smart contracts with Node.js, TypeScript and 
 
 ## 📈 Activity
 
-[![Oleg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=awallencedev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
