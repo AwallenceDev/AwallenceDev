@@ -8,7 +8,7 @@ Building backend systems, APIs and smart contracts with Node.js, TypeScript and 
 
 ## ⚙️ Tech Stack
 
-<p align="left">
+<p align="centre">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
